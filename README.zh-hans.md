@@ -2,7 +2,7 @@
 
 [English](/readme.md) | 简体中文
 
-这一语言包为Minecraft加入了新的语言——[藏语](https://zh.wikipedia.org/wiki/%E8%97%8F%E6%96%87)（`bo_tieb`，_待定_），供有兴趣者研究学习。
+这一语言包为Minecraft加入了新的语言——[藏语](https://zh.wikipedia.org/wiki/%E8%97%8F%E6%96%87)（`bo_tieb`，_待定_），供爱好者研究学习。
 
 
 ## 支持版本
