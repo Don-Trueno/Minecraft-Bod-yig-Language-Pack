@@ -1,5 +1,7 @@
 # Minecraft-Bod-yig-Language-Pack
 
+English | [简体中文](/README.zh-hans.md)
+
 This language pack simply adds a new language into Minecraft: [Bod-yig](https://en.wikipedia.org/wiki/Tibetan_script) (`bo_tieb`, _TBD_), for the purposes of interest and research.
 
 
