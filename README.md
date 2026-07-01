@@ -1,4 +1,4 @@
-# Minecraft-Bod-yig-Language-Pack
+# Minecraft-Tibetan-Translation-Pack
 
 English | [简体中文](/README.zh-hans.md)
 
@@ -22,7 +22,7 @@ These versions didn't use JSON-format language file.
 
 ## How to use
 
-1. Visit the [Latest Release](https://github.com/Don-Trueno/Minecraft-Bod-yig-Language-Pack/releases/latest) page.
+1. Visit the [Latest Release](https://github.com/Don-Trueno/Minecraft-Tibetan-Translation-Pack/releases/latest) page.
 2. Download the resource pack.
 3. Install it in your game.
 

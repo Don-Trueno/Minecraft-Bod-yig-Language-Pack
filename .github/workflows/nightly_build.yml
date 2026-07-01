@@ -105,12 +105,12 @@ jobs:
         run: |
           mkdir -p 'resources/assets/minecraft/lang'
           cp LICENSE 'resources/LICENSE.txt'
-          cd 'resources' && zip -r '../../Minecraft-Bod-yig-Language-Pack.zip' .
+          cd 'resources' && zip -r '../Minecraft-Tibetan-Translation-Pack.zip' .
 
       - name: Upload Packaged Release
         uses: xresloader/upload-to-github-release@v1
         with:
-          file: 'Minecraft-Bod-yig-Language-Pack.zip'
+          file: 'Minecraft-Tibetan-Translation-Pack.zip'
           release_id: ${{ needs.prepare.outputs.release_id }}
           overwrite: true
 

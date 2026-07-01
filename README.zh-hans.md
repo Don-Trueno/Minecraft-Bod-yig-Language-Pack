@@ -22,7 +22,7 @@
 
 ## 如何使用
 
-1. 前往[最新 Releases](https://github.com/Don-Trueno/Minecraft-Bod-yig-Language-Pack/releases/latest)页面。
+1. 前往[最新 Releases](https://github.com/Don-Trueno/Minecraft-Tibetan-Translation-Pack/releases/latest)页面。
 2. 下载资源包。
 3. 安装到你的游戏中。
 

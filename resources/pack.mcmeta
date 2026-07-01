@@ -1,0 +1,16 @@
+{
+    "pack": {
+        "description": "Minecraft 藏语语言包",
+        "pack_format": 34,
+        "supported_formats":[15,64],
+        "min_format":15,
+        "max_format":9999
+    },
+    "language": {
+        "bo_bt": {
+            "name": "བོད་སྐད།",
+            "region": "བོད་རང་སྐྱོང་ལྗོངས།",
+            "bidirectional": false
+        }
+    }
+}
