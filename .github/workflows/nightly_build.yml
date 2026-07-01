@@ -104,6 +104,7 @@ jobs:
       - name: Package Resources
         run: |
           mkdir -p 'resources/assets/minecraft/lang'
+          mv 'resources/assets/minecraft/lang/bo_BT.json' 'resources/assets/minecraft/lang/bo_bt.json'
           cp LICENSE 'resources/LICENSE.txt'
           cd 'resources' && zip -r '../Minecraft-Tibetan-Translation-Pack.zip' .
 
